@@ -3,7 +3,7 @@ repeat wait() until game:IsLoaded()
 local Players = game:GetService("Players")
 local getPlayers = Players:GetPlayers()
 local PlayerInServer = #getPlayers
-local alts = {"IScarePS99Players","IScarePS99Players1","IScarePS99Players2","IScarePS99Players3","IScarePS99Players4","IScarePS99Players5"}
+local alts = {"SunnyALT2016","SunnyBoiiiiii7","Rainbowsunny210416","Rainbowsun210416","IScarePS99Players4","IScarePS99Players5"}
 
 local function jumpToServer() 
 local sfUrl = "https://games.roblox.com/v1/games/%s/servers/Public?sortOrder=%s&limit=%s&excludeFullGames=true" 
